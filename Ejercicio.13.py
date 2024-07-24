@@ -2,6 +2,8 @@
 Ejercicio 13: Verificación de Número Primo
 Escribe un programa que determine si un número ingresado por el usuario es primo o no.
 '''
+print ('VERIFICADOR DE NÚMERO PRIMO')
+
 Número = int(input('Introduce un número: ')) #Se solicita que introduzca un número enterero y se guarda en la variable "Número"
 #Un número primo es aquel que sólo es divisible por 1 y por si mismo. Por tanto, en este caso se va a dividir por todos los números y si hay sólo dos resultado.
 
