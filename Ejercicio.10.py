@@ -1,8 +1,9 @@
 '''
 Ejercicio 10: Determinar el Día de la Semana
-Escribe un programa que determine el día de la semana correspondiente a un
-número ingresado por el usuario (1 para lunes, 2 para martes, etc.).
+Escribe un programa que determine el día de la semana correspondiente a un número ingresado por el usuario (1 para lunes, 2 para martes, etc.).
 '''
+print ('DETERMINAR DÍA DE LA SEMANA')
+
 Day = str (input('Introduce el un dia de la semana (1-7): ')) # Se pide introducir un número de semana y se le asigna a la variable Day
 
 Days = {'1' : 'Lunes', # Se crea un diccionario en el que la clave es el número de semana y el valor es el día de la semana
