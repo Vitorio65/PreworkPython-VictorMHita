@@ -1,8 +1,8 @@
 '''
 Ejercicio 3: Verificación de Edad
-Escribe un programa que solicite la edad de un usuario y determine si es mayor de
-edad (mayor o igual a 18 años) o no.
+Escribe un programa que solicite la edad de un usuario y determine si es mayor de edad (mayor o igual a 18 años) o no.
 '''
+print ('VERIFICAR MAYORÍA DE EDAD')
 
 Age = int(input('Introduce la edad: ')) #se solicita la edad y se almacena en al variable Age
 
