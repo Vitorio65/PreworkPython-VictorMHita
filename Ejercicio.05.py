@@ -2,6 +2,8 @@
 Ejercicio 5: Suma de Números Pares
 Escribe un programa que calcule la suma de todos los números pares del 1 al 100.
 '''
+print ('SUMA DE NÚMEROS PARES DEL 1 AL 100')
+
 #Alternativa 1 -> se recorren todos los números del 1 al 100 y si al dividir no tiene cociente (=par) y se suma
 
 Suma = 0 #se declara una variable para almacenar la suma
@@ -38,5 +40,5 @@ Número_de_términos = (ultimo_par - primer_par) // diferencia + 1 #Cálculo del
 
 Suma = (Número_de_términos / 2) * (primer_par + ultimo_par) #Cálculo de la suma de una progresión aritmética
 
-print(f'La suma de todos los números pares del 1 al 100 es : {Suma}') 
+print(f'La suma de todos los números pares del 1 al 100 es : {Suma:.0f}') 
 
