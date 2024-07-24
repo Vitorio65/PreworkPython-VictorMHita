@@ -2,6 +2,7 @@
 Ejercicio 8: Cálculo del Índice de Masa Corporal (IMC)
 Escribe un programa que calcule el Índice de Masa Corporal (IMC) de una persona.
 '''
+print ('CÁLCULO DE MASA CORPORAL "MC"')
 
 weight = int(input('Introduce el peso (en kgs): ')) # Se solicita el peso en kgs
 height = int(input('Introduce la estatura (en cms): ')) # Se solicita la altura en cms
