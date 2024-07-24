@@ -1,8 +1,8 @@
 '''
 Ejercicio 4: Contador de Vocales
-Crea un programa que cuente el número de vocales en una palabra ingresada por el
-usuario.
+Crea un programa que cuente el número de vocales en una palabra ingresada por el usuario.
 '''
+print ('CONTADOR DE VOCALES')
 
 TextToCount = str(input('Introduce un texto: ')) #Se solicita introducir un texto
 
