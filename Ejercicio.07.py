@@ -1,8 +1,9 @@
 '''
 Ejercicio 7: Calculadora Simple
-Crea un programa que realice operaciones aritméticas simples (suma, resta,
-multiplicación, división) según la elección del usuario.
+Crea un programa que realice operaciones aritméticas simples (suma, resta, multiplicación, división) según la elección del usuario.
 '''
+print ('CÁLCULADORA SIMPLE')
+
 First_number = int(input ('Introduce el primer término: ')) #Solicita el primer término de la operación
 
 Second_number = int(input ('Introduce el segundo término: ')) #Solicita el primer término de la operación
